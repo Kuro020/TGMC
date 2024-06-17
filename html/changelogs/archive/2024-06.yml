@@ -199,3 +199,7 @@
   breadhunt:
   - qol: Using medical items in-hand will now apply them to yourself
   - qol: Unique action now opens the injector menu
+2024-06-17:
+  Lumipharon:
+  - balance: Largecrates are jumpable
+  - balance: Large rocks can pouched over etc, similar to unwired cades
