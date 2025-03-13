@@ -237,3 +237,14 @@
   - bugfix: removed a stray dev verb
   Neocloudy:
   - bugfix: ignore/unignore actually works now.
+2025-03-13:
+  Runian:
+  - bugfix: Warlock's Psyblast now goes over objects like many other xeno ranged abilities
+      as intended.
+  TiviPlus:
+  - rscadd: Glass floors are seethough
+  - rscadd: Added multiz stair subtype
+  - balance: mech legs now slow increasingly based on hp instead of when destroyed
+  - bugfix: Fixed pod launcher not always working
+  - bugfix: tank riding should work better now for non-mobs
+  - qol: Added queen visually warping shriek wave
